@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit Kumar
 - 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently learning Data Structure and Algorithm as well as Machine lerning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
